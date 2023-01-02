@@ -16,8 +16,9 @@
                 </div>
 
                 <button type="submit" class="btn btn-primary">Login</button>
-                </ </div>
+            </form>
         </div>
     </div>
+</div>
 
-    @endsection
+@endsection

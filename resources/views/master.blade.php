@@ -21,6 +21,27 @@
         margin-top: 100px;
 
     }
+
+    .trending-products {
+        float: left;
+        width: 20%;
+    }
+
+    .trending-wrapper {
+        margin: 30px;
+    }
+
+    .carousel-caption {
+        background: #625f5f78;
+    }
+
+    .products {
+        height: 800px;
+    }
+
+    .nav-search-box {
+        width: 400px;
+    }
 </style>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
 </script>

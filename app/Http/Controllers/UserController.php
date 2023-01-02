@@ -15,7 +15,7 @@ class UserController extends Controller
             return 'Invalid Username or Password';
         else {
             $request->session()->put('user', $user);
-            return redirect('/product');
+            return redirect('/');
         }
     }
 
